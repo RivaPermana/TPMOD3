@@ -1,0 +1,16 @@
+D:\VS\TPModul3\TPModul3\bin\Debug\net8.0-windows\TPModul3.exe
+D:\VS\TPModul3\TPModul3\bin\Debug\net8.0-windows\TPModul3.deps.json
+D:\VS\TPModul3\TPModul3\bin\Debug\net8.0-windows\TPModul3.runtimeconfig.json
+D:\VS\TPModul3\TPModul3\bin\Debug\net8.0-windows\TPModul3.dll
+D:\VS\TPModul3\TPModul3\bin\Debug\net8.0-windows\TPModul3.pdb
+D:\VS\TPModul3\TPModul3\obj\Debug\net8.0-windows\TPModul3.Form1.resources
+D:\VS\TPModul3\TPModul3\obj\Debug\net8.0-windows\TPModul3.csproj.GenerateResource.cache
+D:\VS\TPModul3\TPModul3\obj\Debug\net8.0-windows\TPModul3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\TPModul3\TPModul3\obj\Debug\net8.0-windows\TPModul3.AssemblyInfoInputs.cache
+D:\VS\TPModul3\TPModul3\obj\Debug\net8.0-windows\TPModul3.AssemblyInfo.cs
+D:\VS\TPModul3\TPModul3\obj\Debug\net8.0-windows\TPModul3.csproj.CoreCompileInputs.cache
+D:\VS\TPModul3\TPModul3\obj\Debug\net8.0-windows\TPModul3.dll
+D:\VS\TPModul3\TPModul3\obj\Debug\net8.0-windows\refint\TPModul3.dll
+D:\VS\TPModul3\TPModul3\obj\Debug\net8.0-windows\TPModul3.pdb
+D:\VS\TPModul3\TPModul3\obj\Debug\net8.0-windows\TPModul3.genruntimeconfig.cache
+D:\VS\TPModul3\TPModul3\obj\Debug\net8.0-windows\ref\TPModul3.dll
