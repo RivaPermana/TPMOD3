@@ -11,5 +11,16 @@ namespace TPModul3
         {
 
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string masuk = textBox1.Text;
+            label1.Text = "Hallo "+masuk;
+        }
     }
 }

@@ -14,3 +14,4 @@ D:\VS\TPModul3\TPModul3\obj\Debug\net8.0-windows\refint\TPModul3.dll
 D:\VS\TPModul3\TPModul3\obj\Debug\net8.0-windows\TPModul3.pdb
 D:\VS\TPModul3\TPModul3\obj\Debug\net8.0-windows\TPModul3.genruntimeconfig.cache
 D:\VS\TPModul3\TPModul3\obj\Debug\net8.0-windows\ref\TPModul3.dll
+D:\VS\TPModul3\TPModul3\obj\Debug\net8.0-windows\TPModul3.sourcelink.json
